@@ -6,7 +6,7 @@ const Section = styled.div`
   justify-content: center;
 `;
 const Container = styled.div`
-  width: 80%;
+  width: 1150px;
   display: flex;
   justify-content: space-between;
   align-items: center;
