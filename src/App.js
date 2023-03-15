@@ -18,7 +18,7 @@ const Container = styled.div`
   }
 `
 
-function App() {
+function App(e) {
   return (
     <Container>
       <Hero />
